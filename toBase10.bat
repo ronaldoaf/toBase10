@@ -1,6 +1,8 @@
 @echo off
 setlocal enabledelayedexpansion
 
+
+
 SET BASE=36
 SET VAR=%1
 
